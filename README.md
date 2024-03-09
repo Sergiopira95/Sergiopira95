@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-About me
+About me...
+
 🎓 Electronics, Data Science, Finance.
 🔥 Passionate about: AI, Robotics, Data Science and Machine Learning.
 
