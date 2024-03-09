@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About me
+🎓 Electronics, Data Science, Finance.
+🔥 Passionate about: AI, Robotics, Data Science and Machine Learning.
+
+🛠 Tech Stack 💼 (Languages and Tools)
+Python R (Statistics) C++ MySQL LaTeX Docker NoSQL
+
+Jupyter Visual Studio Code Git GitHub
+
+Pandas Numpy Scikit-learn TensorFlow Tableau PowerBI
+
+📊📈📉 Stats
