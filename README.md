@@ -41,7 +41,7 @@
 <div align="center">
 <h2> 📊📈📉 Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leocortes85&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sergiopira95&show_icons=true&theme=radical)
 
 </div>
 <div align="center">
