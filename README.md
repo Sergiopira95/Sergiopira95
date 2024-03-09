@@ -1,32 +1,58 @@
-### Hi there 👋 I'm Sergio
+<div align="center">
+  <h1>Hi there! 👋 I'm Sergio</h1>
+</div>
+<div align="center">
+<h2>About me</h2> 
+</div>
 
-<!--
-**Sergiopira95/Sergiopira95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Electronics, Data Science, Finance, QA.
+- 🔥 AI, Machine Learning, Robotics and Data Science.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<h2> 🛠 Tech Stack 💼 (Languages and Tools)</h2> 
 
-About me...
 
-🎓 Electronics, Data Science, Finance.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R (Statistics)](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=flat&logo=firebase&logoColor=white)
 
-🔥 Passionate about: AI, Robotics, Data Science and Machine Learning.
 
-🛠 Tech Stack 💼 (Languages and Tools)
 
-Python R (Statistics) C++ MySQL LaTeX Docker NoSQL
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-Jupyter Visual Studio Code Git GitHub
 
-Pandas Numpy Scikit-learn TensorFlow Tableau PowerBI
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white)
 
-📊📈📉 Stats
+</div>
+
+<div align="center">
+<h2> 📊📈📉 Stats</h2>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leocortes85&show_icons=true&theme=radical)
+
+</div>
+<div align="center">
+<h2> Contact Me</h2>
+
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-andres-piratoba-forero/)
+[![GitHub](https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sergiopira95/)
+[![Gmail](https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white)](mailto:piratobasergio@gmail.com)
+
+
+
+</div>
+🌟 Let's connect and changing the world with Data.
