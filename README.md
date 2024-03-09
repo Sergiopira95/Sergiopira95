@@ -15,9 +15,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R (Statistics)](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
+![C]([https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white](https://iconos8.es/icon/40670/c-programaci%C3%B3n))
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=flat&logo=firebase&logoColor=white)
 
